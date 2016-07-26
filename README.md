@@ -3,7 +3,7 @@ A Sass (SCSS) starter project for large scale websites and applications using th
 
 Inspired by the creator of [ITCSS, Harry Robert](https://www.youtube.com/watch?v=1OKZOV-iLj4), and the [blog SCALABLE, MODULAR CSS by James Basoo](http://www.gpmd.co.uk/blog/scalable-css/)
 
-ITCSS philosophy is based on the 'Inverted triangle of specifity'.
+ITCSS philosophy is based on the 'Inverted triangle of specificity'.
 ![alt text](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_PIPWVUMv6rB_p.296099_1420807134466_itcss.jpg "The Holy Triangle!")
 
 1. Settings: Global variables config switches (colours, screen sizes)
