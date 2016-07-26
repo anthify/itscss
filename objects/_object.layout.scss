@@ -1,0 +1,26 @@
+/**
+* Row
+*/
+
+.o-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.o-column {
+  display: flex;
+  flex-direction: column;
+}
+
+
+@include media($desktop) {
+  .o-column-desktop {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .o-row-desktop {
+    display: flex;
+    flex-direction: row;
+  }
+}

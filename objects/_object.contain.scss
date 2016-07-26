@@ -1,0 +1,26 @@
+/**
+* Contain
+*/
+
+/**
+* This is a wrapper of elements
+* that have a max-width on viewports
+* and need to be centred.
+*/
+
+@include media($desktop) {
+  .o-contain-desktop--centered {
+    max-width: 1200px;
+    margin: auto;
+  }
+
+  .o-contain-desktop--right {
+    max-width: 1200px;
+    margin-left: auto;
+  }
+
+  .o-contain-desktop--left {
+    max-width: 1200px;
+    margin-right: auto;
+  }
+}
