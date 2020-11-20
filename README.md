@@ -17,8 +17,10 @@ ITCSS philosophy is based on the 'Inverted triangle of specificity'.
 
 ### Naming
 It follows the [BEM naming convetion](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/).
-```.block {}
+```css
+.block {}
 .block__element {}
-.block--modifier {}```
+.block--modifier {}
+```
 
 Happy SCSS'in!
